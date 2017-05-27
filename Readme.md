@@ -1,9 +1,9 @@
-TaskMgr is a TaskManager build on meanstack
-Here I have explicitly created files for angular one can use Angular-cli also once understand how it works.
-For mongodb i have used mlab
-nodejs is a server side language
-express is a nodejs framework use to build web applications featuring routing,api req and more.
-angular 2 is mvc framework for frontend
+<h1>TaskMgr is a TaskManager build on meanstack</h1>
+<h2>Here I have explicitly created files for angular one can use Angular-cli also once understand how it works.<h2>
+For mongodb i have used mlab<br>
+nodejs is a server side language<br>
+express is a nodejs framework use to build web applications featuring routing,api req and more.<br>
+angular 2 is mvc framework for frontend<br>
 
 Take this as quickstart or steps are also given
 

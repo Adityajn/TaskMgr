@@ -1,6 +1,3 @@
-/**
- * Created by aditya on 5/27/17.
- */
 var express = require('express');
 var path = require('path');
 var bodyParser = require('body-parser');
